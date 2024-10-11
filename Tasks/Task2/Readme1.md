@@ -1,1 +1,1 @@
-By the reading of the metrics the relatively diffusion models gave better results
+By the reading of the metrics the relatively Generative Adversarial Networks models gave better results
